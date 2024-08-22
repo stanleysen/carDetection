@@ -1,0 +1,38 @@
+<annotation>
+	<folder>frame 15m</folder>
+	<filename>frame_0022.jpg</filename>
+	<path>E:\SUNIB Univ\Skripsi\frame 15m\frame_0022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mobil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>523</xmin>
+			<ymin>541</ymin>
+			<xmax>986</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>mobil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>955</xmin>
+			<ymin>218</ymin>
+			<xmax>1155</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>
